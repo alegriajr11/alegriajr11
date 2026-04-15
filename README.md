@@ -46,8 +46,8 @@
   <img src="https://skillicons.dev/icons?i=discord" height="40" />
 </a>
 <a href="https://www.youtube.com/@samiralegriajr" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
 <a href="https://www.instagram.com/alegria_samirjr/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
