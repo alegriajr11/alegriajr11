@@ -35,6 +35,16 @@
 
 ---
 
+### 🧠 What I Do
+
+- 🏗️ Design scalable backend architectures  
+- ⚙️ Build APIs with Go, NestJS & Python  
+- ☁️ Deploy cloud infrastructure on AWS  
+- 🐳 Containerization with Docker & Nginx  
+- 📱 Develop cross-platform mobile apps
+
+---
+
 ### 🌐 Connect with me
 
 <div align="center">
@@ -57,12 +67,6 @@
 
 </div>
 
----
 
-### 🧠 What I Do
 
-- 🏗️ Design scalable backend architectures  
-- ⚙️ Build APIs with Go, NestJS & Python  
-- ☁️ Deploy cloud infrastructure on AWS  
-- 🐳 Containerization with Docker & Nginx  
-- 📱 Develop cross-platform mobile apps
+
