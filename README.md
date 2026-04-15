@@ -59,9 +59,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 What I Do
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alegriajr11&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegriajr11&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
+- 🏗️ Design scalable backend architectures  
+- ⚙️ Build APIs with Go, NestJS & Python  
+- ☁️ Deploy cloud infrastructure on AWS  
+- 🐳 Containerization with Docker & Nginx  
+- 📱 Develop cross-platform mobile apps
