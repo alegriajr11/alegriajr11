@@ -67,6 +67,12 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alegriajr11.alegriajr11&"  />
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://i.picasion.com/pic93/a47f07213ca6b4958d45323292af21af.gif"  />
 </div>
 
@@ -74,7 +80,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/edward-samir-alegria-salazar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -88,5 +94,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/alegriajr11/alegriajr11/output/snake.svg" alt="Snake animation" />
 
 ###
